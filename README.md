@@ -1,2 +1,1 @@
-# idossou-marius-adom.github.io
-Personal website
+# Idossou Marius Adom
