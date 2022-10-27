@@ -1,8 +1,8 @@
 menu:
+- {name: 'CV', url: '/CV_Idossou_Marius_ADOM'}
 - {name: 'Research',  url: '/Research' }
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
-- {name: 'CV', url: '/CV_Idossou_Marius_ADOM'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Idossou-Marius-Adom'}
