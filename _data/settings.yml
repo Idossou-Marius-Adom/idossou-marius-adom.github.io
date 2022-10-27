@@ -1,5 +1,5 @@
 menu:
-- {name: 'CV', url: '/CVIdossouMariusADOM'}
+- {name: 'CV', url: '/CV'}
 - {name: 'Research',  url: '/Research' }
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
