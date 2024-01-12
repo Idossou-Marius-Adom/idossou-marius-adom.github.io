@@ -2,7 +2,7 @@ menu:
 - {name: 'CV', url: '/CV'}
 - {name: 'Research',  url: '/Research' }
 - {name: 'Teaching', url: '/Teaching'}
-- {name: 'References', url: '/References'}
+#- {name: 'References', url: '/References'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Idossou-Marius-Adom'}
